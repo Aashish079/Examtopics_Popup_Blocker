@@ -13,44 +13,20 @@ A Chrome extension that automatically blocks and hides annoying popups on ExamTo
 
 Follow these step-by-step instructions to install the extension in your browser:
 
-### 1. 📁 Create a Folder
 
-Create a new, empty folder on your computer. Name it something memorable, like `ExamTopics-Popup-Blocker`.
-
-### 2. 📄 Create the Files
-
-Inside the new folder, create the following files:
-
-- `manifest.json`
-- `content_script.js`
-
-### 3. 💻 Add the Code
-
-1. **Copy the manifest.json code** and paste it into your `manifest.json` file
-2. **Copy the content_script.js code** and paste it into your `content_script.js` file
-3. **Save both files**
-
-Your folder structure should look like this:
-
-```
-ExamTopics-Popup-Blocker/
-├── manifest.json
-└── content_script.js
-```
-
-### 4. 🌐 Open Browser Extensions Page
+### 2. 🌐 Open Browser Extensions Page
 
 Choose your browser:
 
 - **Chrome**: Navigate to `chrome://extensions`
 - **Edge**: Navigate to `edge://extensions`
 
-### 5. 🔧 Enable Developer Mode
+### 3. 🔧 Enable Developer Mode
 
 1. Find the **"Developer mode"** toggle (usually in the top-right corner)
 2. Turn it **ON**
 
-### 6. 📂 Load the Extension
+### 4. 📂 Load the Extension
 
 1. Click the **"Load unpacked"** button
 2. In the file dialog, navigate to and select the folder you created in Step 1
