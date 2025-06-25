@@ -14,19 +14,19 @@ A Chrome extension that automatically blocks and hides annoying popups on ExamTo
 Follow these step-by-step instructions to install the extension in your browser:
 
 
-### 2. 🌐 Open Browser Extensions Page
+### 1. 🌐 Open Browser Extensions Page
 
 Choose your browser:
 
 - **Chrome**: Navigate to `chrome://extensions`
 - **Edge**: Navigate to `edge://extensions`
 
-### 3. 🔧 Enable Developer Mode
+### 2. 🔧 Enable Developer Mode
 
 1. Find the **"Developer mode"** toggle (usually in the top-right corner)
 2. Turn it **ON**
 
-### 4. 📂 Load the Extension
+### 3. 📂 Load the Extension
 
 1. Click the **"Load unpacked"** button
 2. In the file dialog, navigate to and select the folder you created in Step 1
