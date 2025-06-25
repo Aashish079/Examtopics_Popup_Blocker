@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Examtopics_Popup_Blocker",
+  "version": "1.0.0",
+  "description": "Finds a specific pop-up element with class 'popup-overlay show' and sets its display to 'none'. By Aashish Karki",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content_script.js"
+      ]
+    }
+  ]
+}
