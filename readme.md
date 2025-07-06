@@ -11,6 +11,8 @@ A Chrome extension that automatically blocks and hides annoying popups on ExamTo
 
 ## 🚀 Installation Guide
 
+Clone the repo or just download as Zip then:
+
 Follow these step-by-step instructions to install the extension in your browser:
 
 
